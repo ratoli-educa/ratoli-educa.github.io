@@ -1,0 +1,4 @@
+Posa aqui les teves imatges (descarregades de Canva) amb aquests noms:
+logo.png, equip.jpg, families.jpg, tabu.jpg, gimcana.jpg,
+amaya.jpg, meri.jpg, flor.jpg, tania.jpg, cristina.jpg, olena.jpg
+Si alguna falta, la web mostra un color lila en el seu lloc.
